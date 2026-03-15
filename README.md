@@ -1,5 +1,4 @@
-# 💫 About Me:
-### 👨‍💻 About Me<br><br>🔭 **I’m currently working on:**<br><br>* Strengthening my problem-solving skills through Data Structures and Algorithms<br>* Building small projects to improve my development and coding practices<br>* Preparing for technical interviews by solving coding challenges<br><br>🤝 **I’m looking to collaborate on:**<br><br>* Open-source projects related to backend development and cloud computing<br>* Projects where I can learn real-world software development practices<br><br>🆘 **I’m looking for help with:**<br><br>* Understanding how real-world industry projects are designed and deployed<br>* Learning best practices for writing scalable and clean code<br><br>📚 **I’m currently learning:**<br><br>* System Design<br>* Backend development concepts<br>* Improving problem-solving and algorithmic thinking<br><br>💬 **Ask me about:**<br><br>* Data Structures & Algorithms<br>* Backend Concepts<br>* Cloud fundamentals<br><br>⚡ **Fun fact:**<br>I often say “just one more problem” and end up solving five
+### 👨‍💻 About Me<br><br>🔭 **I’m currently working on:**<br><br>* Strengthening my problem-solving skills through Data Structures and Algorithms<br>* Building small projects to improve my development and coding practices<br>* Preparing for technical interviews by solving coding challenges<br><br>🤝 **I’m looking to collaborate on:**<br><br>* Open-source projects related to backend development and cloud computing<br>* Projects where I can learn real-world software development practices<br><br>🆘 **I’m looking for help with:**<br><br>* Understanding how real-world industry projects are designed and deployed<br>* Learning best practices for writing scalable and clean code<br><br>📚 **I’m currently learning:**<br><br>* System Design<br>* Backend development concepts<br>* Improving problem-solving and algorithmic thinking<br><br>💬 **Ask me about:**<br><br>* Data Structures & Algorithms<br>* Backend Concepts<br>* Cloud fundamentals<br><br>⚡ **Fun fact:**<br>I often say “just one more problem” and end up solving five.
 
 
 ## 🌐 Socials:
@@ -7,14 +6,13 @@
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-![](https://github-readme-stats.vercel.app/api?username=SAI30570SREERachapudi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://streak-stats.demolab.com?user=SAI30570SREERachapudi&theme=dark&hide_border=false)
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SAI30570SREERachapudi&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=SAI30570SREERachapudi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAI30570SREERachapudi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=SAI30570SREERACHAPUDI&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SAI30570SREERachapudi&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+[![](https://visitcount.itsvg.in/api?id=SAI30570SREERachapudi&icon=0&color=0)](https://visitcount.itsvg.in)
