@@ -1,5 +1,31 @@
-### 👨‍💻 About Me<br><br>🔭 **I’m currently working on:**<br><br>* Strengthening my problem-solving skills through Data Structures and Algorithms<br>* Building small projects to improve my development and coding practices<br>* Preparing for technical interviews by solving coding challenges<br><br>🤝 **I’m looking to collaborate on:**<br><br>* Open-source projects related to backend development and cloud computing<br>* Projects where I can learn real-world software development practices<br><br>🆘 **I’m looking for help with:**<br><br>* Understanding how real-world industry projects are designed and deployed<br>* Learning best practices for writing scalable and clean code<br><br>📚 **I’m currently learning:**<br><br>* System Design<br>* Backend development concepts<br>* Improving problem-solving and algorithmic thinking<br><br>💬 **Ask me about:**<br><br>* Data Structures & Algorithms<br>* Backend Concepts<br>* Cloud fundamentals<br><br>⚡ **Fun fact:**<br>I often say “just one more problem” and end up solving five.
+## 👨‍💻 About Me
+> Passionate about backend development, problem-solving, and building scalable applications.
 
+🔭 **I’m currently working on:**
+- Strengthening my problem-solving skills through Data Structures and Algorithms  
+- Building small projects to improve my development and coding practices  
+- Preparing for technical interviews by solving coding challenges  
+
+🤝 **I’m looking to collaborate on:**
+- Open-source projects related to backend development and cloud computing  
+- Projects where I can learn real-world software development practices  
+
+🆘 **I’m looking for help with:**
+- Understanding how real-world industry projects are designed and deployed  
+- Learning best practices for writing scalable and clean code  
+
+📚 **I’m currently learning:**
+- System Design  
+- Backend development concepts  
+- Improving problem-solving and algorithmic thinking  
+
+💬 **Ask me about:**
+- Data Structures & Algorithms  
+- Backend Concepts  
+- Cloud fundamentals  
+
+⚡ **Fun fact:**
+I often say “just one more problem” and end up solving five 😄
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rachapudi-sai-sree-313305388) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:saisreerachapudi@gmail.com) 
