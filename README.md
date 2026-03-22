@@ -53,6 +53,7 @@
 🎓 **Certifications:**
 - AWS Certified Cloud Practitioner (CLF-C02)
 - Microsoft Azure Fundamentals (AZ-900)
+
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=SAI30570SREERachapudi&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAI30570SREERachapudi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
