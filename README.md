@@ -52,16 +52,10 @@
 <table>
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=c" width="50"/><br><sub><b>C</b></sub>
-</td>
-<td align="center">
 <img src="https://skillicons.dev/icons?i=java" width="50"/><br><sub><b>Java</b></sub>
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=python" width="50"/><br><sub><b>Python</b></sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=js" width="50"/><br><sub><b>JavaScript</b></sub>
 </td>
 </tr>
 </table>
@@ -88,9 +82,6 @@
 <img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br><sub><b>Node.js</b></sub>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=express" width="50"/><br><sub><b>Express.js</b></sub>
-</td>
-<td align="center">
 <img src="https://skillicons.dev/icons?i=django" width="50"/><br><sub><b>Django</b></sub>
 </td>
 <td align="center">
@@ -108,9 +99,6 @@
 <td align="center">
 <img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br><sub><b>MongoDB</b></sub>
 </td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postgres" width="50"/><br><sub><b>PostgreSQL</b></sub>
-</td>
 </tr>
 </table>
 
@@ -119,9 +107,6 @@
 <tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=aws" width="50"/><br><sub><b>AWS</b></sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=azure" width="50"/><br><sub><b>Azure</b></sub>
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=docker" width="50"/><br><sub><b>Docker</b></sub>
