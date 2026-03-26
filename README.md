@@ -48,49 +48,111 @@
 
 # 💻 Tech Stack
 
-## 🧑‍💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-</p>
+### 🚀 Programming & Core
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=c" width="50"/><br><sub><b>C</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=java" width="50"/><br><sub><b>Java</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=python" width="50"/><br><sub><b>Python</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=js" width="50"/><br><sub><b>JavaScript</b></sub>
+</td>
+</tr>
+</table>
 
-## 🌐 Web & Backend
-<p>
-  <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+### 🎨 Frontend Development
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=html" width="50"/><br><sub><b>HTML5</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=css" width="50"/><br><sub><b>CSS3</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="50"/><br><sub><b>React</b></sub>
+</td>
+</tr>
+</table>
 
-## ☁️ Cloud
-<p>
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-</p>
+### ⚙️ Backend & Frameworks
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br><sub><b>Node.js</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=express" width="50"/><br><sub><b>Express.js</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=django" width="50"/><br><sub><b>Django</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=spring" width="50"/><br><sub><b>Spring Boot</b></sub>
+</td>
+</tr>
+</table>
 
-## ⚙️ DevOps
-<p>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white"/>
-</p>
+### 🗄️ Databases
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mysql" width="50"/><br><sub><b>MySQL</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br><sub><b>MongoDB</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" width="50"/><br><sub><b>PostgreSQL</b></sub>
+</td>
+</tr>
+</table>
 
-## 🗄️ Databases
-<p>
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-</p>
+### ☁️ Cloud & DevOps
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=aws" width="50"/><br><sub><b>AWS</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=azure" width="50"/><br><sub><b>Azure</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="50"/><br><sub><b>Docker</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="50"/><br><sub><b>Kubernetes</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=jenkins" width="50"/><br><sub><b>Jenkins</b></sub>
+</td>
+</tr>
+</table>
 
-## 🔧 Tools
-<p>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+### 🔧 Tools
+<table>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="50"/><br><sub><b>Git</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=github" width="50"/><br><sub><b>GitHub</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=githubactions" width="50"/><br><sub><b>GitHub Actions</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postman" width="50"/><br><sub><b>Postman</b></sub>
+</td>
+</tr>
+</table>
+
 
 ---
 
