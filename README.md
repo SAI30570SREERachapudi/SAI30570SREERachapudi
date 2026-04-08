@@ -149,7 +149,7 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=SAI30570SREERachapudi&theme=default)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=SAI30570SREERachapudi&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SAI30570SREERachapudi&theme=dark&hide_border=true&layout=compact)
 
