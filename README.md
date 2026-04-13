@@ -1,6 +1,6 @@
 # 👨‍💻 Rachapudi Sai Sree
-<img align="right"  src="![](https://komarev.com/ghpvc/?username=SAI30570SREERachapudi&style=for-the-badge&color=blueviolet)" alt="rachapudisaisree" /> </p>
-  
+<img align="right"  src="https://komarev.com/ghpvc/?username=SAI30570SREERachapudi&label=Visitors%20&color=blue&style=flat" alt="SAI30570SREERachapudi" /> </p>
+      
 > 🚀 Backend-focused developer | Problem Solver | Cloud Enthusiast  
 
 ---
