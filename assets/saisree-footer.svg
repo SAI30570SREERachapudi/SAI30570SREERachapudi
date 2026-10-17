@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" width="100%" height="auto">
+  <defs>
+    <!-- Footer Background Gradient -->
+    <linearGradient id="footer-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="50%" stop-color="#F7F4F5"/>
+      <stop offset="100%" stop-color="#E8DCE2"/>
+    </linearGradient>
+
+    <!-- Burgundy Accent Gradient -->
+    <linearGradient id="footer-accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#452333"/>
+      <stop offset="50%" stop-color="#6D354C"/>
+      <stop offset="100%" stop-color="#C49AAA"/>
+    </linearGradient>
+
+    <!-- Subtle Technical Grid -->
+    <pattern id="footer-grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M 24 0 L 0 0 0 24" fill="none" stroke="#C49AAA" stroke-width="0.6" stroke-opacity="0.18"/>
+      <circle cx="24" cy="0" r="0.9" fill="#6D354C" fill-opacity="0.22"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .f-title { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Roboto', 'Helvetica Neue', Arial, sans-serif; font-weight: 700; }
+    .f-sub { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Roboto', 'Helvetica Neue', Arial, sans-serif; font-weight: 500; }
+    .f-mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-weight: 500; }
+
+    @keyframes footerWave {
+      0% { stroke-dashoffset: 160; }
+      100% { stroke-dashoffset: 0; }
+    }
+    .footer-flow { stroke-dasharray: 6 5; animation: footerWave 16s linear infinite; }
+  </style>
+
+  <!-- Background Surface -->
+  <rect x="2" y="2" width="1196" height="116" rx="16" fill="url(#footer-bg)" stroke="#E8DCE2" stroke-width="1.8"/>
+
+  <!-- Technical Grid -->
+  <rect x="4" y="4" width="1192" height="112" rx="14" fill="url(#footer-grid)"/>
+
+  <!-- Left Connected Nodes -->
+  <g transform="translate(60, 60)">
+    <path d="M 0 0 L 60 0 L 90 -22 L 150 -22" fill="none" stroke="#C49AAA" stroke-width="1.5" stroke-opacity="0.5"/>
+    <path d="M 0 0 L 60 0 L 90 22 L 150 22" fill="none" stroke="#6D354C" stroke-width="1.5" stroke-opacity="0.4"/>
+    <path d="M 0 0 L 60 0 L 90 -22 L 150 -22" fill="none" stroke="#452333" stroke-width="1.5" class="footer-flow"/>
+    <circle cx="0" cy="0" r="4.5" fill="#452333"/>
+    <circle cx="60" cy="0" r="3.5" fill="#6D354C"/>
+    <circle cx="90" cy="-22" r="4" fill="#6D354C"/>
+    <circle cx="150" cy="-22" r="3" fill="#C49AAA"/>
+    <circle cx="90" cy="22" r="3.5" fill="#C49AAA"/>
+    <circle cx="150" cy="22" r="3" fill="#452333"/>
+  </g>
+
+  <!-- Right Connected Nodes -->
+  <g transform="translate(1140, 60)">
+    <path d="M 0 0 L -60 0 L -90 -22 L -150 -22" fill="none" stroke="#C49AAA" stroke-width="1.5" stroke-opacity="0.5"/>
+    <path d="M 0 0 L -60 0 L -90 22 L -150 22" fill="none" stroke="#6D354C" stroke-width="1.5" stroke-opacity="0.4"/>
+    <path d="M 0 0 L -60 0 L -90 22 L -150 22" fill="none" stroke="#452333" stroke-width="1.5" class="footer-flow"/>
+    <circle cx="0" cy="0" r="4.5" fill="#452333"/>
+    <circle cx="-60" cy="0" r="3.5" fill="#6D354C"/>
+    <circle cx="-90" cy="-22" r="3.5" fill="#C49AAA"/>
+    <circle cx="-150" cy="-22" r="3" fill="#452333"/>
+    <circle cx="-90" cy="22" r="4" fill="#6D354C"/>
+    <circle cx="-150" cy="22" r="3" fill="#C49AAA"/>
+  </g>
+
+  <!-- Center Identity & Philosophy Motif -->
+  <g text-anchor="middle">
+    <!-- Center Emblem / Monogram -->
+    <circle cx="600" cy="32" r="14" fill="#FFFFFF" stroke="#C49AAA" stroke-width="1.2"/>
+    <circle cx="600" cy="32" r="4" fill="#6D354C"/>
+    <line x1="530" y1="32" x2="578" y2="32" stroke="#E8DCE2" stroke-width="1.2"/>
+    <line x1="622" y1="32" x2="670" y2="32" stroke="#E8DCE2" stroke-width="1.2"/>
+
+    <!-- Main Footer Line -->
+    <text x="600" y="66" class="f-title" font-size="16" fill="#452333" letter-spacing="0.3">
+      Rachapudi Sai Sree &bull; AI Engineer Intern @ Calibo
+    </text>
+
+    <!-- Supporting Philosophy -->
+    <text x="600" y="90" class="f-mono" font-size="11.5" fill="#6D354C" fill-opacity="0.85" letter-spacing="0.8">
+      BUILDING SCALABLE AI AGENTS &bull; PRACTICAL ENGINEERING &bull; CONTINUOUS LEARNING
+    </text>
+  </g>
+</svg>

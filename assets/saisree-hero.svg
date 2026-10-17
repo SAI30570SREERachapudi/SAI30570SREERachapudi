@@ -1,0 +1,238 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="100%" height="auto">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="hero-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="35%" stop-color="#F7F4F5"/>
+      <stop offset="75%" stop-color="#EFE6EC"/>
+      <stop offset="100%" stop-color="#E8DCE2"/>
+    </linearGradient>
+
+    <!-- Burgundy Accent Gradient -->
+    <linearGradient id="burgundy-accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#452333"/>
+      <stop offset="60%" stop-color="#6D354C"/>
+      <stop offset="100%" stop-color="#C49AAA"/>
+    </linearGradient>
+
+    <!-- Rose Line Gradient -->
+    <linearGradient id="rose-taper" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6D354C"/>
+      <stop offset="40%" stop-color="#C49AAA"/>
+      <stop offset="100%" stop-color="#E8DCE2" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Circuit Wire Gradient -->
+    <linearGradient id="wire-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#C49AAA" stop-opacity="0.3"/>
+      <stop offset="50%" stop-color="#6D354C" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#452333" stop-opacity="0.4"/>
+    </linearGradient>
+
+    <!-- Pulse Glow Filter -->
+    <filter id="soft-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feComposite in="SourceGraphic" in2="blur" operator="over"/>
+    </filter>
+
+    <!-- Light Sweep Gradient -->
+    <linearGradient id="light-sweep" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Engineering Grid Pattern -->
+    <pattern id="tech-grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#C49AAA" stroke-width="0.75" stroke-opacity="0.22"/>
+      <circle cx="30" cy="0" r="1.2" fill="#6D354C" fill-opacity="0.28"/>
+    </pattern>
+
+    <!-- Subtle Dot Matrix -->
+    <pattern id="dot-matrix" width="15" height="15" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.8" fill="#6D354C" fill-opacity="0.18"/>
+    </pattern>
+  </defs>
+
+  <style>
+    .font-title { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Roboto', 'Helvetica Neue', Arial, sans-serif; font-weight: 800; }
+    .font-sub { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Roboto', 'Helvetica Neue', Arial, sans-serif; font-weight: 600; }
+    .font-body { font-family: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Roboto', 'Helvetica Neue', Arial, sans-serif; font-weight: 400; }
+    .font-mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; font-weight: 500; }
+
+    @keyframes pulseNode {
+      0%, 100% { r: 4.5px; opacity: 0.85; }
+      50% { r: 7px; opacity: 1; }
+    }
+    @keyframes sweepAnimation {
+      0% { transform: translateX(-600px) skewX(-25deg); }
+      50%, 100% { transform: translateX(1400px) skewX(-25deg); }
+    }
+    @keyframes dashMove {
+      0% { stroke-dashoffset: 240; }
+      100% { stroke-dashoffset: 0; }
+    }
+    @keyframes beaconGlow {
+      0%, 100% { opacity: 0.4; transform: scale(1); }
+      50% { opacity: 0.9; transform: scale(1.15); }
+    }
+
+    .pulse-anim { animation: pulseNode 3s ease-in-out infinite; }
+    .dash-flow { stroke-dasharray: 8 6; animation: dashMove 14s linear infinite; }
+    .sweep-bar { animation: sweepAnimation 7s ease-in-out infinite; }
+  </style>
+
+  <!-- Base Card Surface -->
+  <rect x="2" y="2" width="1196" height="416" rx="20" fill="url(#hero-bg)" stroke="#E8DCE2" stroke-width="2"/>
+
+  <!-- Technical Grid Overlay (Clipped to Inner Card) -->
+  <g opacity="0.85">
+    <rect x="4" y="4" width="1192" height="412" rx="18" fill="url(#tech-grid)"/>
+  </g>
+
+  <!-- Ambient Decorative Rings / Network Hub in Right Background -->
+  <g transform="translate(970, 210)" opacity="0.65">
+    <!-- Orbital Rings -->
+    <circle cx="0" cy="0" r="190" fill="none" stroke="#C49AAA" stroke-width="1" stroke-dasharray="4 6" opacity="0.35"/>
+    <circle cx="0" cy="0" r="135" fill="none" stroke="#6D354C" stroke-width="1.2" stroke-dasharray="6 8" opacity="0.45"/>
+    <circle cx="0" cy="0" r="80" fill="none" stroke="#C49AAA" stroke-width="1.5" stroke-opacity="0.5"/>
+    <circle cx="0" cy="0" r="28" fill="#E8DCE2" stroke="#6D354C" stroke-width="2" opacity="0.85"/>
+    <circle cx="0" cy="0" r="8" fill="#452333"/>
+
+    <!-- Concentric Crosshairs -->
+    <line x1="-205" y1="0" x2="-175" y2="0" stroke="#6D354C" stroke-width="1.5" opacity="0.5"/>
+    <line x1="175" y1="0" x2="205" y2="0" stroke="#6D354C" stroke-width="1.5" opacity="0.5"/>
+    <line x1="0" y1="-205" x2="0" y2="-175" stroke="#6D354C" stroke-width="1.5" opacity="0.5"/>
+    <line x1="0" y1="175" x2="0" y2="205" stroke="#6D354C" stroke-width="1.5" opacity="0.5"/>
+  </g>
+
+  <!-- AI Neural Network & Data Flow Lines (Right Side) -->
+  <g>
+    <!-- Circuit Paths -->
+    <path d="M 720 110 L 820 110 L 890 170 L 970 170 L 1050 110 L 1120 110" fill="none" stroke="url(#wire-grad)" stroke-width="2.2" stroke-linecap="round"/>
+    <path d="M 700 210 L 780 210 L 840 270 L 950 270 L 1020 320 L 1130 320" fill="none" stroke="url(#wire-grad)" stroke-width="2" stroke-linecap="round"/>
+    <path d="M 750 310 L 830 310 L 890 230 L 990 230 L 1060 210 L 1120 210" fill="none" stroke="url(#wire-grad)" stroke-width="1.8" stroke-linecap="round"/>
+
+    <!-- Animated Data Flow Pulses -->
+    <path d="M 720 110 L 820 110 L 890 170 L 970 170 L 1050 110 L 1120 110" fill="none" stroke="#6D354C" stroke-width="2.5" class="dash-flow"/>
+    <path d="M 700 210 L 780 210 L 840 270 L 950 270 L 1020 320 L 1130 320" fill="none" stroke="#C49AAA" stroke-width="2" class="dash-flow"/>
+
+    <!-- Network Nodes with Static Anchors & Dynamic Pulses -->
+    <g fill="#452333" stroke="#FFFFFF" stroke-width="2">
+      <circle cx="720" cy="110" r="5"/>
+      <circle cx="820" cy="110" r="5"/>
+      <circle cx="890" cy="170" r="6" fill="#6D354C"/>
+      <circle cx="970" cy="170" r="7" fill="#452333"/>
+      <circle cx="1050" cy="110" r="5"/>
+      <circle cx="1120" cy="110" r="4.5"/>
+
+      <circle cx="780" cy="210" r="5"/>
+      <circle cx="840" cy="270" r="5.5" fill="#6D354C"/>
+      <circle cx="950" cy="270" r="6.5" fill="#452333"/>
+      <circle cx="1020" cy="320" r="5"/>
+      <circle cx="1130" cy="320" r="4.5"/>
+
+      <circle cx="830" cy="310" r="4.5"/>
+      <circle cx="890" cy="230" r="6" fill="#6D354C"/>
+      <circle cx="990" cy="230" r="7" fill="#452333"/>
+      <circle cx="1060" cy="210" r="5"/>
+    </g>
+
+    <!-- Node Glow Orbs -->
+    <circle cx="970" cy="170" r="14" fill="#C49AAA" opacity="0.25"/>
+    <circle cx="990" cy="230" r="16" fill="#6D354C" opacity="0.2"/>
+    <circle cx="890" cy="170" r="11" fill="#C49AAA" opacity="0.28"/>
+  </g>
+
+  <!-- Left Content Column -->
+  <!-- 1. Role Pill Badge -->
+  <g transform="translate(64, 48)">
+    <rect x="0" y="0" width="310" height="34" rx="17" fill="#FFFFFF" stroke="#C49AAA" stroke-width="1.2" filter="url(#soft-glow)"/>
+    <rect x="0" y="0" width="310" height="34" rx="17" fill="#FFFFFF" opacity="0.8"/>
+    <!-- Live Status Dot -->
+    <circle cx="18" cy="17" r="5" fill="#6D354C"/>
+    <circle cx="18" cy="17" r="9" fill="#6D354C" opacity="0.25">
+      <animate attributeName="r" values="6;11;6" dur="2.4s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.35;0.05;0.35" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <!-- Role Text -->
+    <text x="36" y="22" class="font-mono" font-size="12" fill="#452333" letter-spacing="1.5">AI ENGINEER INTERN @ CALIBO</text>
+  </g>
+
+  <!-- 2. Primary Full Name -->
+  <text x="64" y="146" class="font-title" font-size="52" fill="#452333" letter-spacing="-0.5">Rachapudi Sai Sree</text>
+
+  <!-- 3. Dusty Rose Signature Accent Underline -->
+  <rect x="64" y="162" width="340" height="4.5" rx="2.25" fill="url(#rose-taper)"/>
+  <circle cx="66" cy="164.25" r="4" fill="#452333"/>
+  <circle cx="408" cy="164.25" r="2.5" fill="#C49AAA"/>
+
+  <!-- 4. Supporting Headline -->
+  <text x="64" y="206" class="font-sub" font-size="22" fill="#6D354C" letter-spacing="0.2">
+    Software Developer <tspan fill="#C49AAA">|</tspan> AI/ML &amp; Backend Engineering
+  </text>
+
+  <!-- 5. Academic & Context Line -->
+  <g transform="translate(64, 230)">
+    <text x="0" y="0" class="font-body" font-size="14.5" fill="#292329" fill-opacity="0.82">
+      B.Tech in Computer Science &amp; Engineering &bull; K L University (2023–2027) &bull; CGPA 9.82
+    </text>
+    <text x="0" y="22" class="font-body" font-size="13.5" fill="#292329" fill-opacity="0.7">
+      University 3rd Rank &bull; NPTEL Discipline Star &bull; Building Scalable AI Agents &amp; Reliable Services
+    </text>
+  </g>
+
+  <!-- 6. Verified Technical Focus Pills -->
+  <g transform="translate(64, 290)">
+    <!-- Pill 1: Agentic AI -->
+    <g transform="translate(0, 0)">
+      <rect x="0" y="0" width="168" height="32" rx="8" fill="#FFFFFF" stroke="#E8DCE2" stroke-width="1.2"/>
+      <circle cx="15" cy="16" r="3.5" fill="#6D354C"/>
+      <text x="26" y="20.5" class="font-mono" font-size="11.5" fill="#452333">Agentic AI &amp; LangGraph</text>
+    </g>
+
+    <!-- Pill 2: Backend APIs -->
+    <g transform="translate(178, 0)">
+      <rect x="0" y="0" width="164" height="32" rx="8" fill="#FFFFFF" stroke="#E8DCE2" stroke-width="1.2"/>
+      <circle cx="15" cy="16" r="3.5" fill="#6D354C"/>
+      <text x="26" y="20.5" class="font-mono" font-size="11.5" fill="#452333">FastAPI &amp; Spring Boot</text>
+    </g>
+
+    <!-- Pill 3: MLOps & Pipelines -->
+    <g transform="translate(352, 0)">
+      <rect x="0" y="0" width="176" height="32" rx="8" fill="#FFFFFF" stroke="#E8DCE2" stroke-width="1.2"/>
+      <circle cx="15" cy="16" r="3.5" fill="#6D354C"/>
+      <text x="26" y="20.5" class="font-mono" font-size="11.5" fill="#452333">MLOps &amp; Drift Detection</text>
+    </g>
+
+    <!-- Pill 4: Cloud & AWS -->
+    <g transform="translate(538, 0)">
+      <rect x="0" y="0" width="158" height="32" rx="8" fill="#FFFFFF" stroke="#E8DCE2" stroke-width="1.2"/>
+      <circle cx="15" cy="16" r="3.5" fill="#6D354C"/>
+      <text x="26" y="20.5" class="font-mono" font-size="11.5" fill="#452333">Cloud &amp; AWS Deploy</text>
+    </g>
+  </g>
+
+  <!-- 7. Bottom Status & Coordinates Bar -->
+  <g transform="translate(64, 368)">
+    <line x1="0" y1="0" x2="632" y2="0" stroke="#E8DCE2" stroke-width="1"/>
+    <!-- Coordinates & Meta -->
+    <text x="0" y="24" class="font-mono" font-size="12" fill="#6D354C" fill-opacity="0.9">
+      &#x25C6; Nandyal, AP, India
+    </text>
+    <text x="180" y="24" class="font-mono" font-size="12" fill="#292329" fill-opacity="0.75">
+      &bull; Ready for Practical Engineering &amp; AI Systems
+    </text>
+    <text x="540" y="24" class="font-mono" font-size="12" fill="#452333" font-weight="600">
+      v2026.1 &bull; Calibo
+    </text>
+  </g>
+
+  <!-- Light Sweep Effect Across Banner -->
+  <g clip-path="url(#card-clip)">
+    <clipPath id="card-clip">
+      <rect x="4" y="4" width="1192" height="412" rx="18"/>
+    </clipPath>
+    <rect x="0" y="0" width="260" height="420" fill="url(#light-sweep)" class="sweep-bar" opacity="0.6"/>
+  </g>
+</svg>
