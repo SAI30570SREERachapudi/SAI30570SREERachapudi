@@ -1,32 +1,34 @@
 <!-- ============================================================ -->
 <!--   RACHAPUDI SAI SREE — PROFESSIONAL GITHUB PROFILE README     -->
-<!--   Visual Identity: Soft Ivory (#F7F4F5) & Burgundy (#6D354C)   -->
+<!--   Visual Identity: Clean Light Tech (Cobalt #2563EB & Cyan #0EA5E9) -->
 <!-- ============================================================ -->
 
 <div align="center">
 
-<a href="https://github.com/SAI30570SREERachapudi">
-  <img src="assets/saisree-hero.jpg" alt="Rachapudi Sai Sree — AI Engineer Intern at Calibo | Software Developer | AI/ML and Backend Engineering" width="100%" />
-</a>
+<p align="center">
+  <a href="https://github.com/SAI30570SREERachapudi">
+    <img src="assets/saisree-hero.jpg" alt="Rachapudi Sai Sree — AI Engineer Intern at Calibo | Software Developer | AI/ML and Backend Engineering" width="760" style="max-width: 100%; height: auto; border-radius: 10px;" />
+  </a>
+</p>
 
 <!-- Accessibility & Static Fallback -->
 <noscript>
   <h1>Rachapudi Sai Sree</h1>
-  <p><strong>AI Engineer Intern @ Calibo | Software Developer | AI/ML & Backend Engineering</strong></p>
+  <p><strong>AI Engineer Intern @ Calibo | Software Developer | AI/ML &amp; Backend Engineering</strong></p>
   <p>B.Tech Computer Science and Engineering &bull; K L University (2023–2027) &bull; CGPA: 9.82</p>
 </noscript>
 
 <p align="center">
   <a href="mailto:saisreerachupudi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-saisreerachupudi%40gmail.com-452333?style=for-the-badge&logo=gmail&logoColor=F7F4F5" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-saisreerachupudi%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/rachapudi-sai-sree-313305388">
-    <img src="https://img.shields.io/badge/LinkedIn-Sai_Sree_Rachapudi-6D354C?style=for-the-badge&logo=linkedin&logoColor=F7F4F5" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Sai_Sree_Rachapudi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/SAI30570SREERachapudi">
-    <img src="https://img.shields.io/badge/GitHub-SAI30570SREERachapudi-452333?style=for-the-badge&logo=github&logoColor=F7F4F5" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-SAI30570SREERachapudi-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=SAI30570SREERachapudi&label=Profile%20Views&color=6D354C&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SAI30570SREERachapudi&label=Profile%20Views&color=2563EB&style=for-the-badge" alt="Profile Views" />
 </p>
 
 </div>
@@ -140,8 +142,8 @@ Through my hands-on coursework and internship experience, I continuously deepen 
 - **Verified Technologies:** `Java` &bull; `JavaScript` &bull; `AWS (Amazon Web Services)` &bull; `Docker` &bull; `REST APIs` &bull; `RBAC`
 - **Repository:** [`github.com/SAI30570SREERachapudi/LeaseLinker-Deployment-in-AWS`](https://github.com/SAI30570SREERachapudi/LeaseLinker-Deployment-in-AWS)
 
-> **Implementation Note on Candidate Systems:**  
-> Specialized design investigations (such as financial fraud explainability services with guardrails and credit risk score evaluators) represent specialized algorithmic architectures and internal experiments that inform my backend and explainability design principles.
+> **Implementation Note on Specialized Architectures:**  
+> Algorithmic investigations (including financial fraud explainability services with guardrails and credit score evaluators) represent specialized prototypes and internal experiments that directly inform my backend and explainability design principles.
 
 ---
 
@@ -151,12 +153,12 @@ Through my hands-on coursework and internship experience, I continuously deepen 
 
 | Domain | Verified Technologies & Tools |
 | :--- | :--- |
-| **Programming Languages** | <img src="https://img.shields.io/badge/Python-452333?style=flat-square&logo=python&logoColor=F7F4F5" alt="Python" /> <img src="https://img.shields.io/badge/Java-6D354C?style=flat-square&logo=openjdk&logoColor=F7F4F5" alt="Java" /> <img src="https://img.shields.io/badge/C-452333?style=flat-square&logo=c&logoColor=F7F4F5" alt="C" /> <img src="https://img.shields.io/badge/JavaScript-6D354C?style=flat-square&logo=javascript&logoColor=F7F4F5" alt="JavaScript" /> |
-| **AI & Agentic Systems** | <img src="https://img.shields.io/badge/LangGraph-452333?style=flat-square&logoColor=F7F4F5" alt="LangGraph" /> <img src="https://img.shields.io/badge/MCP_Protocol-6D354C?style=flat-square&logoColor=F7F4F5" alt="MCP" /> <img src="https://img.shields.io/badge/LLM_Tool_Calling-452333?style=flat-square&logoColor=F7F4F5" alt="Tool Calling" /> <img src="https://img.shields.io/badge/Scikit--Learn-6D354C?style=flat-square&logo=scikitlearn&logoColor=F7F4F5" alt="Scikit-Learn" /> <img src="https://img.shields.io/badge/NumPy-452333?style=flat-square&logo=numpy&logoColor=F7F4F5" alt="NumPy" /> |
-| **Backend & Microservices** | <img src="https://img.shields.io/badge/FastAPI-6D354C?style=flat-square&logo=fastapi&logoColor=F7F4F5" alt="FastAPI" /> <img src="https://img.shields.io/badge/Spring_Boot-452333?style=flat-square&logo=springboot&logoColor=F7F4F5" alt="Spring Boot" /> <img src="https://img.shields.io/badge/REST_APIs-6D354C?style=flat-square&logoColor=F7F4F5" alt="REST" /> <img src="https://img.shields.io/badge/Django-452333?style=flat-square&logo=django&logoColor=F7F4F5" alt="Django" /> <img src="https://img.shields.io/badge/Node.js-6D354C?style=flat-square&logo=nodedotjs&logoColor=F7F4F5" alt="Node.js" /> |
-| **Cloud & DevOps** | <img src="https://img.shields.io/badge/AWS-452333?style=flat-square&logo=amazonwebservices&logoColor=F7F4F5" alt="AWS" /> <img src="https://img.shields.io/badge/Docker-6D354C?style=flat-square&logo=docker&logoColor=F7F4F5" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-452333?style=flat-square&logo=kubernetes&logoColor=F7F4F5" alt="Kubernetes" /> <img src="https://img.shields.io/badge/GitHub_Actions-6D354C?style=flat-square&logo=githubactions&logoColor=F7F4F5" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/CI%2FCD-452333?style=flat-square&logoColor=F7F4F5" alt="CI/CD" /> |
-| **Databases & Tooling** | <img src="https://img.shields.io/badge/MySQL-6D354C?style=flat-square&logo=mysql&logoColor=F7F4F5" alt="MySQL" /> <img src="https://img.shields.io/badge/MongoDB-452333?style=flat-square&logo=mongodb&logoColor=F7F4F5" alt="MongoDB" /> <img src="https://img.shields.io/badge/Git-6D354C?style=flat-square&logo=git&logoColor=F7F4F5" alt="Git" /> <img src="https://img.shields.io/badge/Postman-452333?style=flat-square&logo=postman&logoColor=F7F4F5" alt="Postman" /> |
-| **Computer Science Core** | `Data Structures & Algorithms` &bull; `Object-Oriented Design` &bull; `System Design Fundamentals` &bull; `Model Drift Monitoring` |
+| **Programming Languages** | <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /> <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" /> |
+| **AI & Agentic Systems** | <img src="https://img.shields.io/badge/LangGraph-2563EB?style=flat-square&logo=diagram-next&logoColor=white" alt="LangGraph" /> <img src="https://img.shields.io/badge/MCP_Protocol-0EA5E9?style=flat-square&logoColor=white" alt="MCP" /> <img src="https://img.shields.io/badge/LLM_Tool_Calling-1D4ED8?style=flat-square&logoColor=white" alt="Tool Calling" /> <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="Scikit-Learn" /> <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" /> |
+| **Backend & Microservices** | <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" /> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" /> <img src="https://img.shields.io/badge/REST_APIs-0284C7?style=flat-square&logoColor=white" alt="REST" /> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" /> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /> |
+| **Cloud & DevOps** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/CI%2FCD-0284C7?style=flat-square&logoColor=white" alt="CI/CD" /> |
+| **Databases & Tooling** | <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" /> |
+| **Core Engineering** | `Data Structures & Algorithms` &bull; `Object-Oriented Design` &bull; `System Design Fundamentals` &bull; `Model Drift Monitoring` |
 
 </div>
 
@@ -168,7 +170,7 @@ Through my hands-on coursework and internship experience, I continuously deepen 
 
 ### GitHub Contribution Telemetry
 <p align="center">
-  <img src="https://ghchart.rshah.org/6D354C/SAI30570SREERachapudi" alt="Sai Sree's Real GitHub Contribution Heatmap" width="100%" />
+  <img src="https://ghchart.rshah.org/2563EB/SAI30570SREERachapudi" alt="Sai Sree's Real GitHub Contribution Heatmap" width="760" style="max-width: 100%; height: auto;" />
 </p>
 
 <br />
@@ -176,10 +178,10 @@ Through my hands-on coursework and internship experience, I continuously deepen 
 <table>
   <tr>
     <td width="55%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=SAI30570SREERachapudi&show_icons=true&title_color=6D354C&text_color=292329&icon_color=C49AAA&bg_color=F7F4F5&border_color=E8DCE2" alt="Sai Sree's GitHub Stats" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=SAI30570SREERachapudi&show_icons=true&title_color=2563EB&text_color=0F172A&icon_color=0EA5E9&bg_color=FFFFFF&border_color=E2E8F0" alt="Sai Sree's GitHub Stats" width="100%" />
     </td>
     <td width="45%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAI30570SREERachapudi&layout=compact&title_color=6D354C&text_color=292329&bg_color=F7F4F5&border_color=E8DCE2" alt="Top Languages" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SAI30570SREERachapudi&layout=compact&title_color=2563EB&text_color=0F172A&bg_color=FFFFFF&border_color=E2E8F0" alt="Top Languages" width="100%" />
     </td>
   </tr>
 </table>
@@ -207,7 +209,9 @@ I welcome professional discussions regarding AI engineering, backend architectur
 
 <div align="center">
 
-<img src="assets/saisree-footer.jpg" alt="Rachapudi Sai Sree — AI Engineer Intern @ Calibo" width="100%" />
+<p align="center">
+  <img src="assets/saisree-footer.png" alt="Rachapudi Sai Sree — AI Engineer Intern @ Calibo" width="760" style="max-width: 100%; height: auto; border-radius: 8px;" />
+</p>
 
 <p align="center">
   <em>Dedicated to building robust systems, mastering scalable architectures, and advancing through practical engineering.</em>
