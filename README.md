@@ -6,7 +6,7 @@
 <div align="center">
 
 <a href="https://github.com/SAI30570SREERachapudi">
-  <img src="assets/saisree-hero.svg" alt="Rachapudi Sai Sree — AI Engineer Intern at Calibo | Software Developer | AI/ML and Backend Engineering" width="100%" />
+  <img src="assets/saisree-hero.jpg" alt="Rachapudi Sai Sree — AI Engineer Intern at Calibo | Software Developer | AI/ML and Backend Engineering" width="100%" />
 </a>
 
 <!-- Accessibility & Static Fallback -->
@@ -207,7 +207,7 @@ I welcome professional discussions regarding AI engineering, backend architectur
 
 <div align="center">
 
-<img src="assets/saisree-footer.svg" alt="Rachapudi Sai Sree — AI Engineer Intern @ Calibo" width="100%" />
+<img src="assets/saisree-footer.jpg" alt="Rachapudi Sai Sree — AI Engineer Intern @ Calibo" width="100%" />
 
 <p align="center">
   <em>Dedicated to building robust systems, mastering scalable architectures, and advancing through practical engineering.</em>
